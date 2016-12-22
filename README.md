@@ -5,20 +5,17 @@ IMPORTANT
 The server running this script must allow external FTP connections
 if you intend to allow connection to external servers.
 
-###################################
-SUPPORT
-###################################
+PHP VERSIONS 5.3 ~
+APACHE OR NGINX 
 
-Knowledgebase: http://support.monstahq.com/support/solutions
-Contact us: http://support.monstahq.com/support/tickets/new
 
 ###################################
 INSTALL
 ###################################
 
-Unzip the contents of the MONSTA Box install zip to your desktop.
-Then upload the "mbox" folder (and its contents) to your web space.
-You'll then access MONSTA Box in your browser from the URL www.yourdomain.com/mbox 
+Unzip the contents of the zipped file to your desktop.
+Then upload the phpftp folder (and its contents) to any directory in your web server.
+You'll then access phpftp in your browser from the URL http://$SERVER_URL/phpftp 
 
 ###################################
 UPLOAD LIMITS
